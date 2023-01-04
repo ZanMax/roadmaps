@@ -1,2 +1,2 @@
-# roadmaps
-With roadmaps app you can create and share your plans with other people
+# Road Maps
+The roadmaps app allows you to create and share your plans with others.
